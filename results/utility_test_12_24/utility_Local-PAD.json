@@ -1,0 +1,3514 @@
+{
+  "accuracy": 0.724,
+  "config": {
+    "defense_mode": "pad",
+    "top_k": 3,
+    "out_dir": "results/utility_test_12_24",
+    "model_path": "/root/autodl-tmp/pycharm_Mirabel/models/LLM-Research/Meta-Llama-3.1-8B-Instruct",
+    "use_api": false,
+    "api_model_name": "",
+    "max_tokens": 20
+  },
+  "details": [
+    {
+      "id": "8-343",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  The person is looking to save money, and eating lunch out is an expense. Quit"
+    },
+    {
+      "id": "1129",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D. Contexts suggest that a day that is cloudy will be likely to precipitate. A desert"
+    },
+    {
+      "id": "880",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "A\nExplanation: The context mentions that predators eat other animals for enrichment, and that predators are meat"
+    },
+    {
+      "id": "7-999",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) parts may break the concrete.  The context is that the roots of the oak tree extend"
+    },
+    {
+      "id": "8-464",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) electrical conductors\nExplanation: The car runs on electricity, which is passed through electrical conduct"
+    },
+    {
+      "id": "9-794",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) carbon\nExplanation: The context mentions that when pollution levels get higher, the gas in the"
+    },
+    {
+      "id": "9-1163",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) ions\nExplanation: The context mentions that a car drives right past the gas station because it"
+    },
+    {
+      "id": "9-322",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) human planet rotation\nExplanation: The context mentions that the middle of the day usually involves the"
+    },
+    {
+      "id": "7-1140",
+      "pred": "A",
+      "gold": "D",
+      "correct": false,
+      "response": "A.  The summer solstice is on June 21st, so it is four months before"
+    },
+    {
+      "id": "7-903",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) broken stones\nI don't know. I don't know. I don't know."
+    },
+    {
+      "id": "7-511",
+      "pred": "A",
+      "gold": "C",
+      "correct": false,
+      "response": "A) a cave.  The cave is a tall place, and a cave is a place that"
+    },
+    {
+      "id": "9-937",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) liquid\nExplanation: The contexts state that a cactus stem is used to store water ("
+    },
+    {
+      "id": "8-201",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "C\nExplanation: The hawk is hunting, and it is most likely to swoop down on a"
+    },
+    {
+      "id": "1618",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A. (Note: This is a multiple choice question, and the answer is based on the context"
+    },
+    {
+      "id": "758",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) powering the lights in a home. (Note: This answer is based on the context that"
+    },
+    {
+      "id": "7-414",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (Note: The question is a bit tricky, but the answer is based on the"
+    },
+    {
+      "id": "9-675",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) solar panels. The context is about using daylight to power objects, and the term \"abs"
+    },
+    {
+      "id": "9-163",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) The Bay of Bengal is a large body of water, and a Mola Mola is"
+    },
+    {
+      "id": "1032",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  Weasel is an animal. Animals require energy to move.  Weasel is the"
+    },
+    {
+      "id": "889",
+      "pred": "A",
+      "gold": "B",
+      "correct": false,
+      "response": "A) rat is not the answer. The correct answer is not in the choices. The correct answer"
+    },
+    {
+      "id": "1160",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D. The context mentions that when you get farther from water, the water vapor in the air will"
+    },
+    {
+      "id": "9-298",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) gasoline.  (Context: An example of conservation is avoiding the use of gasoline)"
+    },
+    {
+      "id": "1189",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A. (The Spheniscidae family includes penguins, which live in frigid climates.)"
+    },
+    {
+      "id": "8-395",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) Lower Life Expectancy in Countries\nExplanation: The context states that if too many humans move"
+    },
+    {
+      "id": "7-238",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) summon a brilliant wave of color\nExplanation: The context mentions that a light is refracted"
+    },
+    {
+      "id": "7-372",
+      "pred": "C",
+      "gold": "B",
+      "correct": false,
+      "response": "C) its nose Context: A shark is hunting prey, and the prey is an underwater creature with"
+    },
+    {
+      "id": "8-35",
+      "pred": "C",
+      "gold": "D",
+      "correct": false,
+      "response": "C) a wheel with worn brake pads.  The worn brake pads would have less friction, thus"
+    },
+    {
+      "id": "9-271",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  The respiratory system is the system that is needed for a body to get its needed supply"
+    },
+    {
+      "id": "9-409",
+      "pred": "Unknown",
+      "gold": "D",
+      "correct": false,
+      "response": "A\nExplanation: The moon is bright in the night sky, especially when full because sunlight brightens"
+    },
+    {
+      "id": "530",
+      "pred": "C",
+      "gold": "B",
+      "correct": false,
+      "response": "C) air. The plane travels through the air surrounding a planet. When it's flying, a"
+    },
+    {
+      "id": "1426",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) shafts of sunlight.  The context is about plants and their requirements for growth. The"
+    },
+    {
+      "id": "8-466",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  The genealogy records of their family.  This is the best way to guess a"
+    },
+    {
+      "id": "1577",
+      "pred": "D",
+      "gold": "B",
+      "correct": false,
+      "response": "D.  Explanation:  The question asks what animal eats plants. The contexts state that deer are"
+    },
+    {
+      "id": "8-257",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  In science, a cause and effect guess is called a hypothesis.  The statement \""
+    },
+    {
+      "id": "378",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) many collisions that have occured\nExplanation: The moon's surface features a variety of landscape features"
+    },
+    {
+      "id": "8-41",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) Water animals.  I don't know.  A) Water animals.  A)"
+    },
+    {
+      "id": "9-540",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B.  The molecules in the apple in the freezer would be moving the most rapidly.  This"
+    },
+    {
+      "id": "266",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  Explanation: The question asks about sensing visual things. The context mentions that an object can"
+    },
+    {
+      "id": "1309",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D."
+    },
+    {
+      "id": "7-1197",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "C\nExplanation: \nIn the context, a person is cooled by a liquid coming from the skin"
+    },
+    {
+      "id": "7-891",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D) used more times\nExplanation: The context says that a reusable product is a steel cup."
+    },
+    {
+      "id": "1180",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. Context: Humans are like monkeys in a lot of ways, besides sharing a lot of the"
+    },
+    {
+      "id": "1204",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) plastic bags floating in the ocean Contexts: - Which would be a source of pollutants?"
+    },
+    {
+      "id": "7-52",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D) a womb\nExplanation: Human reproduction occurs when a male and female are physically prepared and the"
+    },
+    {
+      "id": "1759",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) can help you monitor a fever Contexts suggest that thermometers are used to measure warmness"
+    },
+    {
+      "id": "9-655",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) someone would turn up the room heater Context: What happens to a living thing if it becomes"
+    },
+    {
+      "id": "132",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  (The context is that gas rises when heated, and balloons are filled with gas.)"
+    },
+    {
+      "id": "8-79",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C) shrink\nExplanation: The balloons are filled with helium, which is a gas. When heated"
+    },
+    {
+      "id": "1835",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) arctic\nExplanation: Seals are most likely to be found in the arctic environment"
+    },
+    {
+      "id": "9-149",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "C\nExplanation: The context states that birds reproduce using eggs and that once the egg has hatched"
+    },
+    {
+      "id": "695",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A. Contexts suggest that a sparrow eats berries, and humans eat plant reproduction vessels. Therefore"
+    },
+    {
+      "id": "8-179",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (The person may celebrate an equinox biannually.)  (Context: A"
+    },
+    {
+      "id": "7-50",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) strain the resources of an ecosystem. Context: Overpopulation may result from a boom in reproduction"
+    },
+    {
+      "id": "508",
+      "pred": "Unknown",
+      "gold": "D",
+      "correct": false,
+      "response": "D\nExplanation: The context is about health. A spa trip is a good strategy to improve health"
+    },
+    {
+      "id": "1674",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) number of toenails. The question is asking about a girl and her mom having the same"
+    },
+    {
+      "id": "163",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C) bus\n\nReasoning Skill: Inductive Reasoning\n\nThis question requires inductive reasoning because"
+    },
+    {
+      "id": "7-49",
+      "pred": "A",
+      "gold": "C",
+      "correct": false,
+      "response": "A. (The answer is based on the context that a hawk may enjoy an occasional reptile,"
+    },
+    {
+      "id": "8-393",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D."
+    },
+    {
+      "id": "788",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) 2am. I don't know whether the statement is true or not, but based"
+    },
+    {
+      "id": "9-29",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) The plants that were under the tree will have access to more light. Context: A fallen"
+    },
+    {
+      "id": "9-368",
+      "pred": "B",
+      "gold": "C",
+      "correct": false,
+      "response": "B) fertilize\nExplanation: Birds carrying away fruit has a positive impact on the plant as it"
+    },
+    {
+      "id": "7-671",
+      "pred": "B",
+      "gold": "C",
+      "correct": false,
+      "response": "B) the UFO had been close\nExplanation: The context states that an object that is close will"
+    },
+    {
+      "id": "1272",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D) rats navigate thru a maze. This is a learned behavior. The correct answer is A)"
+    },
+    {
+      "id": "648",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) Clearing for farming.  Please note that this answer is based on the given contexts."
+    },
+    {
+      "id": "9-1180",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  (The context of the source of heat in the sky and the rubbing noses suggests the"
+    },
+    {
+      "id": "9-227",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) high peaks\nExplanation: The moon's surface features a variety of landscape features, including high"
+    },
+    {
+      "id": "1582",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A. Context: To identify the percent chance of a trait being passed down we need at least four"
+    },
+    {
+      "id": "8-125",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) asks for milk\nExplanation: The prisoner knows that he needs vitamin D to survive, and"
+    },
+    {
+      "id": "1923",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) roots. The rose is being pulled from the ground, and the roots are the green structures"
+    },
+    {
+      "id": "9-229",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  I don't know the other options, but I do know that bats use echolocation"
+    },
+    {
+      "id": "1702",
+      "pred": "C",
+      "gold": "B",
+      "correct": false,
+      "response": "C.  (The fact that all mammals are born with fur is an inherited characteristic, and since"
+    },
+    {
+      "id": "8-260",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) enables gas powered motors to operate\nAnswer is: C) enables gas powered motors to operate"
+    },
+    {
+      "id": "9-491",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  (The pond swells and floods after heavy rains.)  (Context: A pond"
+    },
+    {
+      "id": "75",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C) direct\nExplanation: The more friction there is, the more speed goes down. This is"
+    },
+    {
+      "id": "1215",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) will begin to recycle the nutrients that made up its structure.  Please note that the answer"
+    },
+    {
+      "id": "8-93",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "C\nExplanation: The context mentions that a thing which makes shifts to different forms may be gaining the"
+    },
+    {
+      "id": "7-988",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) an uptick in the number of leaves\nExplanation: The context states that a plant needs"
+    },
+    {
+      "id": "9-1139",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) electrical transformer. The man's heart skipped a beat and he felt pain after touching the electrical"
+    },
+    {
+      "id": "1545",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  Explanation:  In the context of the question, dripping is associated with the melting of"
+    },
+    {
+      "id": "7-664",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) it will become blackened.  (Context: A hot stove can burn your elbow,"
+    },
+    {
+      "id": "8-53",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) set to kilometers\nExplanation: The context is about a Jaguar, which is a car."
+    },
+    {
+      "id": "7-1044",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) they could harm living things. (Context: Explosions can cause harm to ground crawlers"
+    },
+    {
+      "id": "7-1122",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B) the plain\n\nReasoning Skill: Inductive Reasoning\n\nThis question requires inductive reasoning"
+    },
+    {
+      "id": "9-79",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) they let in less light.  The frosted window film is used to reduce the amount"
+    },
+    {
+      "id": "7-157",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. (The ocean contains large amounts of saline liquids, and oceans contains most of earth's wet"
+    },
+    {
+      "id": "9-1164",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) water\nExplanation: The cheetah is running all day, which means it is losing"
+    },
+    {
+      "id": "8-63",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D."
+    },
+    {
+      "id": "8-308",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (Note: This is a trick question. The answer is not actually D, but"
+    },
+    {
+      "id": "326",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  Explanation:  The question asks for a three-month period, which is an example of"
+    },
+    {
+      "id": "1184",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B) essentials for photosynthesis.  The context mentions that new plants sprang up everywhere seeds were"
+    },
+    {
+      "id": "359",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C.  The desert is hot, so a lighter color would be more comfortable.  Black is"
+    },
+    {
+      "id": "9-350",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. (The salamander could eat a large amounts of six legged winged organisms,"
+    },
+    {
+      "id": "7-140",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "B The contexts suggest that the person is making discoveries, which involves observing things. The woman is looking"
+    },
+    {
+      "id": "591",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A. (Note: \"malleable\" is a synonym for \"loose\")... ("
+    },
+    {
+      "id": "7-391",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C."
+    },
+    {
+      "id": "1672",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C. (Note: The question is a bit ambiguous as it doesn't specify acorns or pec"
+    },
+    {
+      "id": "9-464",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  (Rainbows are always found after rainfall)  (Rainbows are always found after"
+    },
+    {
+      "id": "9-983",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) dirt quality.  I don't know what the other options are about.  Crop rotation"
+    },
+    {
+      "id": "9-179",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) rubbing it. The best method for detecting texture is rubbing it. This is because a thing"
+    },
+    {
+      "id": "7-942",
+      "pred": "D",
+      "gold": "C",
+      "correct": false,
+      "response": "D.  I don't know the answer to this question.  I do know that the animal"
+    },
+    {
+      "id": "7-100",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  (Note: The answer is based on the assumption that \"falling liquids\" in"
+    },
+    {
+      "id": "9-30",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "B\nExplanation: \nThe contexts state that a predator is an animal that uses other animals for nour"
+    },
+    {
+      "id": "1709",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) enable plants to continue flourishing.  The contexts indicate that pollinators are important for the"
+    },
+    {
+      "id": "8-491",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. (The seeds have their own nutrition, which is necessary for them to grow.) (The"
+    },
+    {
+      "id": "44",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "C\nExplanation: The question asks what type of characteristics people are not born with. The context provides"
+    },
+    {
+      "id": "1023",
+      "pred": "C",
+      "gold": "D",
+      "correct": false,
+      "response": "C) water\nExplanation: The contexts describe a glass being shaped similarly to liquid matter, an object"
+    },
+    {
+      "id": "1911",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) discharge of liquid petroleum in the surrounding sea. (Note: This is a direct consequence of"
+    },
+    {
+      "id": "429",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) 1000. The unit of measure derived from French word millilitre is a unit"
+    },
+    {
+      "id": "8-49",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. Context: The man has a clean yard at the beginning of a season. As the seasons"
+    },
+    {
+      "id": "520",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) will break your vases.  Earthquakes cause the ground to bounce and jump."
+    },
+    {
+      "id": "7-1128",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) how stable the ground will be\nExplanation: A seismograph is a tool for measuring"
+    },
+    {
+      "id": "7-394",
+      "pred": "C",
+      "gold": "B",
+      "correct": false,
+      "response": "C. ```python\n# No code is required for this problem\n``` - 1\nThe"
+    },
+    {
+      "id": "9-1166",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "C\nExplanation: The query is asking what a plant needs to grow, and the context states that"
+    },
+    {
+      "id": "7-884",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) reverberations to strike the eardrum. (Note: This answer is based on"
+    },
+    {
+      "id": "9-501",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C. The great lakes. Context: What is needed to make an island? volcano. Context:"
+    },
+    {
+      "id": "9-757",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  I don't know is not a valid answer. If you are not sure, you"
+    },
+    {
+      "id": "7-725",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (The context mentions that wind can turn a statue to dust, which implies that wind"
+    },
+    {
+      "id": "1300",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. (Spots on a ladybug are an inherited characteristic.)  (Continued...)"
+    },
+    {
+      "id": "9-230",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A. (Note: This is a trick question. The answer is not directly related to the contexts"
+    },
+    {
+      "id": "9-988",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) confined to enclosures to be viewed by the public.  (Note: This is a"
+    },
+    {
+      "id": "9-393",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) reservoir Context: Algae perform photosynthesis and so they are like to be found where in"
+    },
+    {
+      "id": "7-823",
+      "pred": "Unknown",
+      "gold": "D",
+      "correct": false,
+      "response": "D\nExplanation: A toaster converts electrical energy into heat energy for toasting much like a small oven"
+    },
+    {
+      "id": "9-24",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) mimicking other things\nThe final answer is A. ## Step 1: Understand the"
+    },
+    {
+      "id": "570",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  Explanation: The contexts describe a person playing a string instrument, which involves pulling the finger"
+    },
+    {
+      "id": "9-124",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) water level fluctuations.  The pull the human planet space rock orbiter has on certain bodies"
+    },
+    {
+      "id": "9-199",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B) corn syrup or\nExplanation: Since density = mass / volume, denser liquids such as"
+    },
+    {
+      "id": "767",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "D\nExplanation: \nThe question asks which of the following items can perform photosynthesis. The options"
+    },
+    {
+      "id": "28",
+      "pred": "B",
+      "gold": "D",
+      "correct": false,
+      "response": "B) inverse\nExplanation: The force exerted on an object and distance traveled have an inverse relationship"
+    },
+    {
+      "id": "9-1134",
+      "pred": "D",
+      "gold": "B",
+      "correct": false,
+      "response": "D) release energy\nExplanation: Cellular respiration is a process in which cells take in oxygen and"
+    },
+    {
+      "id": "9-1030",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) sensing views\nExplanation: The prairie creature is a dog, which needs to be able"
+    },
+    {
+      "id": "9-18",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) given a large breakfast\nExplanation: The dog needs to prepare its body for the enormous workload"
+    },
+    {
+      "id": "8-378",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  The woman makes less money because the sales of the bracelets have decreased.  The woman"
+    },
+    {
+      "id": "7-677",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C."
+    },
+    {
+      "id": "9-786",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) Our Planet. The question is asking about the cause of seasons, which is the Earth's"
+    },
+    {
+      "id": "9-463",
+      "pred": "C",
+      "gold": "D",
+      "correct": false,
+      "response": "C) hockey stick\nExplanation: The question asks which is best at letting electricity pass through. The"
+    },
+    {
+      "id": "7-71",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) large, bowl-shaped cavities in the ground. (Note: This is a multiple choice"
+    },
+    {
+      "id": "9-1053",
+      "pred": "C",
+      "gold": "D",
+      "correct": false,
+      "response": "C) CO2\nExplanation: The formula of the substance which best helps plants grow is CO2"
+    },
+    {
+      "id": "9-437",
+      "pred": "C",
+      "gold": "B",
+      "correct": false,
+      "response": "C) Going walking Context: A thing needs to be placed on a balance in order to determine pressure"
+    },
+    {
+      "id": "1787",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) a parched creek bed.  The context mentions that a source of heat could be a"
+    },
+    {
+      "id": "7-107",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B) in Canada\nExplanation: In the northern hemisphere, June is the start of summertime."
+    },
+    {
+      "id": "769",
+      "pred": "B",
+      "gold": "C",
+      "correct": false,
+      "response": "B) pool\nExplanation: The context states that a pool bloats after adding fifty buckets of"
+    },
+    {
+      "id": "9-73",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D.  Context: If it's freezing in New Zealand than it's the what month August."
+    },
+    {
+      "id": "9-1194",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  Explanation: The context is about birds and their beaks, which are also referred to"
+    },
+    {
+      "id": "9-416",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  I don't know the other options, but I do know that transplanting seedling"
+    },
+    {
+      "id": "470",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) humans throwing a spear through an animal Bookmark and Share\nExplanation: The query asks for an"
+    },
+    {
+      "id": "1297",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  ```python\ndef find_shape_changer():\n    # Contexts\n    liquid_shape"
+    },
+    {
+      "id": "8-346",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C) bitter\nExplanation: The item that fell and is thought to have hit Sir Isaac Newton's"
+    },
+    {
+      "id": "7-807",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) stone\nExplanation: The context mentions that a portion of the earth, and other planets is"
+    },
+    {
+      "id": "8-463",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) the freezing point. The context is referring to the temperature below which liquid stops being liquid."
+    },
+    {
+      "id": "9-110",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  (Context: Many animals that give birth to live young have legs, Many animals that"
+    },
+    {
+      "id": "1611",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) it may become magnetized.  The nail will become magnetic because it is touching the electrom"
+    },
+    {
+      "id": "9-942",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  The context mentions that ferns have sustenance from weathering and dirt, and that"
+    },
+    {
+      "id": "9-1102",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  (The context is about household items, and a school notebook is a household item that"
+    },
+    {
+      "id": "9-774",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) it is an unsustainable habitat. Context: if a habitat is destroyed then that habitat is gone"
+    },
+    {
+      "id": "8-333",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B) water and oil do not mix. They are two separate substances that do not combine. The"
+    },
+    {
+      "id": "9-573",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) vomiting\nExplanation: The context mentions that people commonly have bad reactions to what they get from"
+    },
+    {
+      "id": "1955",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) damage to local foliage.  The contexts suggest that lightning is a sign of rain, and"
+    },
+    {
+      "id": "8-45",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  Context: Nocturnal predators hunt when? sleep time.  A mouse will most"
+    },
+    {
+      "id": "9-674",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "C Contexts suggest that water is a liquid that transforms into gas when it gets hotter. The hotter"
+    },
+    {
+      "id": "898",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) light Context: plants gather their nutrients from the area under grass. This implies that plants are"
+    },
+    {
+      "id": "7-1159",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) \nExplanation: If a new species of predator joins a community, the new species will begin"
+    },
+    {
+      "id": "568",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) It's dead. Context: expired. Context: usually plants die or become dormant after the"
+    },
+    {
+      "id": "9-877",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  Explanation: The question describes an animal with a white fur and a large fluffy tail that"
+    },
+    {
+      "id": "406",
+      "pred": "B",
+      "gold": "C",
+      "correct": false,
+      "response": "B. Context: Dairy is a source of nutriment. Vitamin B is a group of vitamins"
+    },
+    {
+      "id": "7-1132",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) magnetized Bookmark and Share\nIf atomic number 26 is iron, and iron is drawn"
+    },
+    {
+      "id": "7-479",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) they are young frogs still growing.  (Context: when a tadpole changes into a"
+    },
+    {
+      "id": "609",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C) Steak\nExplanation: Cows are herbivores, which means they eat plants. They"
+    },
+    {
+      "id": "1568",
+      "pred": "D",
+      "gold": "C",
+      "correct": false,
+      "response": "D. \n\nReasoning Skill: Inductive Reasoning\nThe question requires the application of inductive"
+    },
+    {
+      "id": "9-418",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) from a daisy's leaves into it's underground support system Context: glucose is easily soluble"
+    },
+    {
+      "id": "7-1050",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) is like nature's disappearing water trick. Context: An example of evaporation is a body"
+    },
+    {
+      "id": "9-510",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) Runoff\nExplanation: The context is about the effect of flooding on crops that have pesticides"
+    },
+    {
+      "id": "9-519",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  (The boy used a mini flashlight as a source of heat to warm the fireplace.)"
+    },
+    {
+      "id": "9-637",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  The duck would like to live in the Appalachian mountains.  The duck would like to"
+    },
+    {
+      "id": "473",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "D\nExplanation: \nThe contexts suggest that tuna eat sardines, which are a type of"
+    },
+    {
+      "id": "8-445",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) grass turning brown\nExplanation: The friend suggests that the woman's depression may be linked to"
+    },
+    {
+      "id": "9-575",
+      "pred": "C",
+      "gold": "B",
+      "correct": false,
+      "response": "C) it is abnormal and weird.  The contexts state that an example of an adult animal laying"
+    },
+    {
+      "id": "7-284",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) cut back their caloric intake.  (Correct. The context suggests that John's dog"
+    },
+    {
+      "id": "8-135",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) to detect when a traffic light changes I don't know the answer to the question. The"
+    },
+    {
+      "id": "397",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D) may end up fueling a car Context: The outer shell of our planet is made of"
+    },
+    {
+      "id": "9-32",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) north of equator. The winter solstice is on December 21st in the northern"
+    },
+    {
+      "id": "48",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  (The lake environment is a good setup for the organic remains to undergo fossilization.)"
+    },
+    {
+      "id": "8-69",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) significant supplies accumulated prior.  I don't know.  C) significant supplies accumulated prior"
+    },
+    {
+      "id": "9-159",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  (The Grand Canyon is massive, with large, high peaks and very deep lows,"
+    },
+    {
+      "id": "9-317",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  I don't know is not a valid answer. Please choose one of the option letters"
+    },
+    {
+      "id": "423",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  The context is about a canyon, which is created by a strong force such as rap"
+    },
+    {
+      "id": "8-304",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) a man who lives next to a landfill. The context says that someone stops living when they"
+    },
+    {
+      "id": "785",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  I don't know the answer to the question.  I don't know the answer"
+    },
+    {
+      "id": "9-1087",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C. (The aquifer is a source of water, and if the environment is arid,"
+    },
+    {
+      "id": "485",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (The context mentions that wind is a resource that can be retrieved repeatedly, and if"
+    },
+    {
+      "id": "9-908",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) friction\nExplanation: The context of hitting the brakes hard leaving rubber on the road due to"
+    },
+    {
+      "id": "1231",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "C Context: Pumpkin pie spice comes from plants. Plants have cell walls. So, the answer is"
+    },
+    {
+      "id": "810",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) leads to longer availability of resources\nExplanation: The context states that an example of conservation is"
+    },
+    {
+      "id": "158",
+      "pred": "Unknown",
+      "gold": "D",
+      "correct": false,
+      "response": "B\nExplanation: A tree is not the habitat of a woodpecker. Woodpeckers"
+    },
+    {
+      "id": "7-445",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C) an increase in rainy weather I don't know. The contexts do not support this answer."
+    },
+    {
+      "id": "1502",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) it's angled towards the largest star in the solar system\nThe largest star in the solar"
+    },
+    {
+      "id": "1200",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B. (The winter solstice is the shortest day in the northern globes top half, which"
+    },
+    {
+      "id": "437",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) Eucerin pH5 range is a moisturizer that protects the skin. It is a"
+    },
+    {
+      "id": "8-205",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  (The context mentions that the earth is the source of natural resources and when certain things"
+    },
+    {
+      "id": "9-270",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  I don't know is not a valid answer. If you cannot find the answer to"
+    },
+    {
+      "id": "8-130",
+      "pred": "B",
+      "gold": "C",
+      "correct": false,
+      "response": "B) metal\nExplanation: The boy needs to complete a circuit to turn on the Walkman,"
+    },
+    {
+      "id": "229",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. (The sun's rays are a result of nuclear activity.)  (The sun's rays"
+    },
+    {
+      "id": "9-390",
+      "pred": "A",
+      "gold": "D",
+      "correct": false,
+      "response": "A.  Context: a riverbank is a source of the smoothest rocks.  Context:"
+    },
+    {
+      "id": "8-107",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) passed down inherited characteristics. The father rabbit passed down his brown spots to the baby. This"
+    },
+    {
+      "id": "7-527",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D.  (Note: The question is a bit tricky, but the answer is based on the"
+    },
+    {
+      "id": "7-333",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) genetic contributors had long ears.  Please let me know if you have any questions."
+    },
+    {
+      "id": "9-44",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "C\nExplanation: The context mentions that some birds live in large areas dominated by trees, and a"
+    },
+    {
+      "id": "7-160",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (The Octopus has its ink)  (expelling dark fluid for cover)"
+    },
+    {
+      "id": "1942",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. (Note: This is a multiple choice question. The answer is based on the context that"
+    },
+    {
+      "id": "9-597",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) weathering\nExplanation: The sidewalk next to a house having a crack in it and having"
+    },
+    {
+      "id": "9-35",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) millions of years. The context mentions that some minerals originated from a material that was far away"
+    },
+    {
+      "id": "1161",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) alter the way the moon's facade looks\nAnswer rationale: The question is asking about the"
+    },
+    {
+      "id": "7-171",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) organs would remain unaffected.  Please note that the context talks about external effects of hot water"
+    },
+    {
+      "id": "1139",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  I don't know.  The query is about barnyard bovines, but"
+    },
+    {
+      "id": "1924",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) tons of sun. I don't know. B) tons of sun. I don't"
+    },
+    {
+      "id": "9-440",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "B\nExplanation: The context mentions an ecosystem with a variety of living beings, including birds, trees"
+    },
+    {
+      "id": "9-528",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) the heart is the organ that is most muscular. It is a muscular pump that pumps blood"
+    },
+    {
+      "id": "170",
+      "pred": "B",
+      "gold": "C",
+      "correct": false,
+      "response": "B. Context: Mules are sterile and cannot reproduce. Hinnies are also sterile and cannot"
+    },
+    {
+      "id": "395",
+      "pred": "Unknown",
+      "gold": "D",
+      "correct": false,
+      "response": "A\nExplanation: The other options are reptiles or amphibians, which are cold-blooded."
+    },
+    {
+      "id": "9-633",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (The male bird is attempting to procure a reproductive companion.)  (The bright feathers"
+    },
+    {
+      "id": "9-504",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) a quarry Contexts: - Iron can be found on rocky areas - You can find fer"
+    },
+    {
+      "id": "8-192",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  The context is about cooking food, which requires adding heat energy to it.  Ro"
+    },
+    {
+      "id": "7-1108",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (Note: This is a multiple choice question. The answer is based on the context"
+    },
+    {
+      "id": "7-852",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  The phloem is a part of a plant that moves nutrients and sugars around the"
+    },
+    {
+      "id": "761",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  Polar bears are best suited for colder places, and Nebraska is a colder place than the"
+    },
+    {
+      "id": "8-318",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) light is more easily seen\nExplanation: The plane is drawing near, so the light is"
+    },
+    {
+      "id": "636",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "D\nExplanation: Members of rock bands often perform with gloves. This is a common sight in rock"
+    },
+    {
+      "id": "7-444",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (Muscles pull on bones in order to move them; which is an example of"
+    },
+    {
+      "id": "8-57",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) energy is accessed underwater from tides\nExplanation: The context mentions that the energy of the"
+    },
+    {
+      "id": "9-187",
+      "pred": "A",
+      "gold": "B",
+      "correct": false,
+      "response": "A) invertebrates.  The contexts tell us that eagles eat small burrowing mammals,"
+    },
+    {
+      "id": "1345",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) be successfully fertilized. The flower's life work is to produce offspring, and being successfully"
+    },
+    {
+      "id": "8-59",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  The reason is that the chassis of a car is a large metal object, which is"
+    },
+    {
+      "id": "178",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) mud\nExplanation: Landslides are often associated with mudslides, which are a type"
+    },
+    {
+      "id": "9-1186",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "C\nExplanation: A chemical reaction is a process in which one or more substances are converted into new"
+    },
+    {
+      "id": "82",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) direct\nExplanation: The size of an object and the ability to see it more easily have"
+    },
+    {
+      "id": "8-165",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) spineless marine organisms, cartilaginous and gelatinous organisms.  Please note"
+    },
+    {
+      "id": "404",
+      "pred": "A",
+      "gold": "B",
+      "correct": false,
+      "response": "A) waterfalls \nExplanation: The evaporation of a pond can lead to a pond of less"
+    },
+    {
+      "id": "279",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D.  Explanation:  An electrical energy conductor is a material that allows the flow of electric current"
+    },
+    {
+      "id": "9-532",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) warm\nExplanation: The substance that will get less warm when it touches a cold object is"
+    },
+    {
+      "id": "268",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) may cause pieces to flake off the object.  Context: If you scrape an object"
+    },
+    {
+      "id": "7-1018",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D) yanking string up a wheel.  Please note that the answer is based on the given"
+    },
+    {
+      "id": "1756",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  Emus are birds and birds reproduce using eggs.  Emus are an example of"
+    },
+    {
+      "id": "1137",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. (The surface of the Earth is made of the same stuff as castles.) (The"
+    },
+    {
+      "id": "7-203",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (The context is about learned behaviors, and nailing up a picture frame is an"
+    },
+    {
+      "id": "745",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) rubber\nExplanation: The context mentions that waxy leaves can be considered clothes, implying that"
+    },
+    {
+      "id": "7-902",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) get bigger yields. Context: the best way to improve production in future yields on the farm"
+    },
+    {
+      "id": "1095",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) feathers slows heat transfer. The duck feather filled jacket works well against the snow because the feathers"
+    },
+    {
+      "id": "7-163",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) a charge for appliances. (Note: A charge is a unit of electricity.) Context:"
+    },
+    {
+      "id": "9-858",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  (The substance will increase in temperature, or \"hotness\".)  (The"
+    },
+    {
+      "id": "1530",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (The context is about a plane traveling through the air surrounding a planet, and sound"
+    },
+    {
+      "id": "9-993",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D) trees\nExplanation: The context states that a renewable resource is used to produce notebook paper,"
+    },
+    {
+      "id": "8-340",
+      "pred": "B",
+      "gold": "D",
+      "correct": false,
+      "response": "B. (Note: This is a trick question. The answer is not necessarily B. It is"
+    },
+    {
+      "id": "3",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) Landfills.  The context mentions that one source of pollution is trash heaps, which is"
+    },
+    {
+      "id": "1074",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  ```python\n# Define the contexts\ncontext1 = \"The material that makes up"
+    },
+    {
+      "id": "9-431",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  The context is about combining substances, like adding soda to water. Therefore, putting one"
+    },
+    {
+      "id": "9-638",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) transformation Contexts:\n- The process of a caterpillar turning into a butterfly is called metam"
+    },
+    {
+      "id": "9-352",
+      "pred": "Unknown",
+      "gold": "D",
+      "correct": false,
+      "response": "D\nExplanation: The context states that a company which causes long lasting products will likely sell less."
+    },
+    {
+      "id": "226",
+      "pred": "A",
+      "gold": "D",
+      "correct": false,
+      "response": "A) a bicycle\nExplanation: A bicycle is powered by human energy, which is similar to an"
+    },
+    {
+      "id": "9-132",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) reprocessable\nExplanation: Aluminum is a metal that can be recycled and reused, making it"
+    },
+    {
+      "id": "9-222",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (This answer is based on the context that a flashlight can be used to create warm"
+    },
+    {
+      "id": "9-105",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  Explanation: The wine is a liquid, and when poured into a thin bottle, it"
+    },
+    {
+      "id": "7-459",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) dirt\nExplanation: Earthworms burrow into the soil, creating tunnels. This loos"
+    },
+    {
+      "id": "9-881",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  (Context: Decomposition occurs when a decomposer recycles nutrients from dead organisms back"
+    },
+    {
+      "id": "280",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "C\nExplanation: The aluminum cans were much hotter than the brass doorknob because cooking food requires"
+    },
+    {
+      "id": "187",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B. I don't know the answer to this question. However, I can tell you that the"
+    },
+    {
+      "id": "8-253",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  (The context mentions a desert, and a prickly horned male lizard is a"
+    },
+    {
+      "id": "9-482",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  It will pass out.  The context says that if an animal is living, then"
+    },
+    {
+      "id": "496",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) solar-rechargeable battery Context: A person can charge something which passes energy through it by"
+    },
+    {
+      "id": "630",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) The Indian\nExplanation: The Indian Ocean contains large amounts of salt water. The Indian Ocean"
+    },
+    {
+      "id": "9-16",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (The nimbleness of this animal is a key adaption that allows it to"
+    },
+    {
+      "id": "7-986",
+      "pred": "B",
+      "gold": "D",
+      "correct": false,
+      "response": "B) school is in English\nExplanation: The context is about a person wanting to get better acquainted"
+    },
+    {
+      "id": "7-787",
+      "pred": "D",
+      "gold": "C",
+      "correct": false,
+      "response": "D) they eat flowers.  The context mentions that bees manufacture honey from a sweet liquid found in"
+    },
+    {
+      "id": "9-181",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  The Earth's closest heat source is our celestial fireball.  The celestial fireball"
+    },
+    {
+      "id": "1240",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) sandstorms create ripples in sand.  The context mentions that you can easily scratch a"
+    },
+    {
+      "id": "474",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (The context says \"plants are the source of tomatoes\" and \"plants are the"
+    },
+    {
+      "id": "1274",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  I don't know.  The context is about a groundhog hiding from a wolf"
+    },
+    {
+      "id": "1531",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (Note: This answer assumes that the context is talking about a forest that is home"
+    },
+    {
+      "id": "8-321",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) resistance\nExplanation: The context is about friction increasing as a surface becomes rougher. When"
+    },
+    {
+      "id": "1321",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) because it's blanketed in crystalline ice water.  The arctic is white in"
+    },
+    {
+      "id": "9-51",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. (Unless the animal is native to a cold climate like Antarctica, it is going to need"
+    },
+    {
+      "id": "7-685",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) crawlies.  The word \"crawlies\" is a synonym for insects, which"
+    },
+    {
+      "id": "7-59",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C. The respiration. The respiration is the process of breaking down food to produce energy."
+    },
+    {
+      "id": "7-270",
+      "pred": "B",
+      "gold": "D",
+      "correct": false,
+      "response": "B."
+    },
+    {
+      "id": "7-736",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) \nExplanation: The question asks for an inherited characteristic, which is a trait passed down from"
+    },
+    {
+      "id": "8-186",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  Selective deforestation has a negative impact on living organisms in ecosystem.  Selective"
+    },
+    {
+      "id": "224",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  (Context: Where are you likely to find a nonrenewable resource? a"
+    },
+    {
+      "id": "8-206",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D.  (The context is about a decrease in visibility while driving, which can cause people to"
+    },
+    {
+      "id": "8-190",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) tepid seas.  The contexts suggest that coral thrives in warm, shallow waters,"
+    },
+    {
+      "id": "7-334",
+      "pred": "C",
+      "gold": "B",
+      "correct": false,
+      "response": "C) \nExplanation: The question asks what a Punnett square is used to identify the percent chance"
+    },
+    {
+      "id": "9-853",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) food for itself\nExplanation: The deer is a consumer, and is unable to create more"
+    },
+    {
+      "id": "8-367",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) community concerns over environmental impact.  (Note: This answer is based on the given contexts"
+    },
+    {
+      "id": "1047",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) causes puddles to become dried out mud\n\nExplanation: The context mentions that an example of"
+    },
+    {
+      "id": "9-454",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) robins\nExplanation: The context mentions that the most likely thing to do seed spread would"
+    },
+    {
+      "id": "1572",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) mammal Context: The excretory system removes waste from what? persons insides."
+    },
+    {
+      "id": "8-373",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C) The water level in a glass decreasing. The water level in a glass decreasing is an example"
+    },
+    {
+      "id": "9-772",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B. (The lunar cycle also changes colors.) (The lunar face appears to change 52 times"
+    },
+    {
+      "id": "1852",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) is nutritionally self sustaining.  Contexts suggest that an organism that makes food for itself"
+    },
+    {
+      "id": "9-1090",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. The respiratory system transfers oxygen to the circulatory system. The circulatory system carries oxygen from"
+    },
+    {
+      "id": "7-769",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "C\nExplanation: In a closed circuit, electricity will loop endlessly. This is because the circuit is"
+    },
+    {
+      "id": "9-478",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) daughter\nExplanation: A Punnett square is used to identify the percent chance of a trait"
+    },
+    {
+      "id": "448",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C) sandy\nExplanation: The context is about the earth changing as trees decay and become part of"
+    },
+    {
+      "id": "7-417",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) a high temperature. The contexts suggest that an animal sheds fur when it is hot. A"
+    },
+    {
+      "id": "7-108",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (Note: This is a multiple choice question. The answer is based on the context"
+    },
+    {
+      "id": "1506",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (Note: This question is a bit tricky as it is asking for an example of"
+    },
+    {
+      "id": "1712",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "D\nExplanation: The special tissues in plants that transport minerals throughout the plant are similar to a whisk"
+    },
+    {
+      "id": "8-312",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) to the upper pole\nThe final answer is C.  ```python\ndef find_com"
+    },
+    {
+      "id": "9-776",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "D\nExplanation: The context says that a person buys a cheap hammer and it breaks a month later"
+    },
+    {
+      "id": "8-279",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C. Contexts indicate that the sun is the star that shines all day, and is the one"
+    },
+    {
+      "id": "9-621",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B. (The moon is known for having many large bowl shaped cavities called craters.) The"
+    },
+    {
+      "id": "1823",
+      "pred": "D",
+      "gold": "C",
+      "correct": false,
+      "response": "D.  (Cellular respiration releases waste, which is the definition of \"everyone's trash"
+    },
+    {
+      "id": "9-735",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) building a new subdivision.  The building of a new subdivision can lead to a change in"
+    },
+    {
+      "id": "7-1170",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) using calories to produce motion. The bird uses its wings to fly, and the energy for"
+    },
+    {
+      "id": "1500",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) H2O (water) is the leading cause of soil and rock erosion. The contexts"
+    },
+    {
+      "id": "342",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) Conventional corn\nExplanation: The context mentions that eating food that contains pesticides can have a"
+    },
+    {
+      "id": "7-356",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  It shows direction.  It is used to find the way when lost on water."
+    },
+    {
+      "id": "78",
+      "pred": "A",
+      "gold": "B",
+      "correct": false,
+      "response": "A. Contexts suggest that nectar is used to attract pollinators to flora, and a"
+    },
+    {
+      "id": "9-520",
+      "pred": "A",
+      "gold": "C",
+      "correct": false,
+      "response": "A) all of these Contexts: - the sun is the closest star to our planet - the"
+    },
+    {
+      "id": "7-653",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  The sailor is navigating, so they are most likely holding a wheel, and making an"
+    },
+    {
+      "id": "1112",
+      "pred": "A",
+      "gold": "B",
+      "correct": false,
+      "response": "A) chicken\n\nReasoning skill: Inductive Reasoning\nAnalysis: The question asks for a"
+    },
+    {
+      "id": "9-152",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) quick Context: If a dog is hunting for wild rabbit or birds, then it can tell"
+    },
+    {
+      "id": "9-552",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) predator Context: If a bird lives in a dangerous place with fires and predators, a bird"
+    },
+    {
+      "id": "7-262",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A. (The context mentions \"warm weather organisms live in what kind of climates? summerlike\","
+    },
+    {
+      "id": "7-683",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (The elephant gets bigger in the sense that it looks bigger as you get closer to"
+    },
+    {
+      "id": "276",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) eating wheat.  The contexts state that a living thing requires nutriment to grow,"
+    },
+    {
+      "id": "7-855",
+      "pred": "D",
+      "gold": "C",
+      "correct": false,
+      "response": "D.  The saguaro cactus has adaptations that allow it to survive in an environment with"
+    },
+    {
+      "id": "664",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D) a feeder at another house. The context is that the population of hummingbirds decreased because of"
+    },
+    {
+      "id": "9-883",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "C\nExplanation: The ocean contains large amounts of saline liquids, the amount of water in the ocean"
+    },
+    {
+      "id": "9-550",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C) attached to an extension cord\nExplanation: The light was off because the cord was attached to"
+    },
+    {
+      "id": "8-493",
+      "pred": "C",
+      "gold": "D",
+      "correct": false,
+      "response": "C.  In the hottest months in the hottest desert, creatures such as birds may find water to"
+    },
+    {
+      "id": "9-257",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  (Context: Why might a polar bear grow white hair? blend in)  ("
+    },
+    {
+      "id": "1239",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D) allows plants to move rain thru their systems\nAnswer: D) allows plants to move rain"
+    },
+    {
+      "id": "869",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "D\nExplanation: The context is about a food that is a source of heat, which is used"
+    },
+    {
+      "id": "7-1105",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B) bacterial can grow more rapidly\nExplanation: The context states that a chemical reaction may occur when"
+    },
+    {
+      "id": "597",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D) something protected by the skeletal system. The heart is an organ that is protected by the skeletal"
+    },
+    {
+      "id": "385",
+      "pred": "B",
+      "gold": "D",
+      "correct": false,
+      "response": "B) the animal with a starring role in Bambi Context: Bambi's mother is a deer"
+    },
+    {
+      "id": "1301",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "B\nExplanation: A warm-blooded animal is one that maintains a constant body temperature, regardless of"
+    },
+    {
+      "id": "9-893",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. (The context mentions that a flashlight emits particles, and that flashlights require batteries to properly"
+    },
+    {
+      "id": "9-369",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) distance traveled Context: A person who knows that they drove two hundred miles today can figure out"
+    },
+    {
+      "id": "9-1026",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) weaken Context: An animal living in an environment lacking in food resources will be in poor shape"
+    },
+    {
+      "id": "7-424",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B. (The context is about collecting clams in sea depths.)  (Note: This is"
+    },
+    {
+      "id": "9-259",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A. (The contexts suggest that polar bears live in cold locales and snowy areas, and that a"
+    },
+    {
+      "id": "9-783",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) chill Context: A close object will seem to be ginormous - This is a trick"
+    },
+    {
+      "id": "1088",
+      "pred": "A",
+      "gold": "B",
+      "correct": false,
+      "response": "A) catching prey Context: Webbed feet aid in ducks chasing prey underwater. Some birds use their"
+    },
+    {
+      "id": "1387",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) a lit candle in a window signalling to someone\nExplanation: The context mentions scorching"
+    },
+    {
+      "id": "7-1062",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B) pushing air through lungs.  The respiratory system works by pushing air through lungs.  The"
+    },
+    {
+      "id": "676",
+      "pred": "C",
+      "gold": "D",
+      "correct": false,
+      "response": "C.  The contexts are talking about animals and their food intake. When an animal eats more,"
+    },
+    {
+      "id": "1998",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) its appearance. The stick bug's appearance is brown, which helps it blend in with its"
+    },
+    {
+      "id": "1698",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  (Ethanol is a type of alcohol, and corn is used to make it.)"
+    },
+    {
+      "id": "490",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) heat energy\nExplanation: The inside of the turkey is white because the heat from cooking causes"
+    },
+    {
+      "id": "844",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) reproduction? Bookmark and Share\nPlease copy and paste the following into your browser to get the"
+    },
+    {
+      "id": "1795",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  The Jersey is a breed of cow.  A cow would likely eat alfalfa."
+    },
+    {
+      "id": "1508",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) windmill\nExplanation: Windmills are mills that make energy from the wind, which"
+    },
+    {
+      "id": "9-289",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  I don't know.  A grass snake may make its home in a neighborhood."
+    },
+    {
+      "id": "9-668",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "C\nExplanation: Octopuses release ink to hide from predators. This is a defense mechanism to"
+    },
+    {
+      "id": "7-364",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  (The context is about creating noise by tapping drumsticks together.)  (The context"
+    },
+    {
+      "id": "1271",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B. (Explanation: If snow is more likely to fall in July, then it is more likely"
+    },
+    {
+      "id": "9-1117",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C) Cricket\nExplanation: The contexts suggest that a species might camouflage as a dangerous animal to avoid"
+    },
+    {
+      "id": "35",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D.  The context says that dead organisms, like trees provide thriving communities. This implies that dead"
+    },
+    {
+      "id": "1660",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B. Contexts suggest that pushing an object requires exerted effort, and as the car approaches a"
+    },
+    {
+      "id": "7-710",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) come from expired life\nExplanation: Fossils fuels can be anything like ancient poo,"
+    },
+    {
+      "id": "8-52",
+      "pred": "C",
+      "gold": "B",
+      "correct": false,
+      "response": "C) plastic stars to decorate a ceiling.  The context is about a star, a great ball"
+    },
+    {
+      "id": "9-1167",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (Note: The contexts suggest that erosion is caused by weather, specifically rain and g"
+    },
+    {
+      "id": "8-43",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (Note: This is a true statement, but it is a bit of a trick"
+    },
+    {
+      "id": "9-57",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  The computer needs an electrical path that is closed to operate.  This is similar to"
+    },
+    {
+      "id": "1411",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A. Contexts suggest that polar bears live in cold areas, which are also described as \"f"
+    },
+    {
+      "id": "9-206",
+      "pred": "A",
+      "gold": "C",
+      "correct": false,
+      "response": "A.  (Note: This question is based on the context that a zipper is more attracted to"
+    },
+    {
+      "id": "7-740",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  I don't know.  D.  D.  D.  D."
+    },
+    {
+      "id": "1774",
+      "pred": "D",
+      "gold": "B",
+      "correct": false,
+      "response": "D. (The digestive system is not mentioned in the first two choices, and the third choice is"
+    },
+    {
+      "id": "7-93",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) rotavirus.  The context mentions that the decrease of something required by an organism has a"
+    },
+    {
+      "id": "8-97",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  (The context is about electricity, and the correct answer is \"run a continuous current"
+    },
+    {
+      "id": "9-813",
+      "pred": "A",
+      "gold": "B",
+      "correct": false,
+      "response": "A) all of these\nExplanation: The contexts suggest that flooding is caused by excess condensed water vapor"
+    },
+    {
+      "id": "9-686",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) egg depositing.  The context mentions \"unhatched chicks\" which is a direct"
+    },
+    {
+      "id": "9-799",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  (The word \"snowy\" is associated with a large amount of ice particles,"
+    },
+    {
+      "id": "1179",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) a green and lush tree and plant packed area.  The cricket is a living animal and"
+    },
+    {
+      "id": "1954",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  Context: Metal is sometimes what? polar opposite.  Metal is sometimes what? polar"
+    },
+    {
+      "id": "8-403",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) it is capable of reproducing. it is a mammal. calling it a bird is"
+    },
+    {
+      "id": "9-576",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) minerals. The context suggests that rocks are smooth and hard, and in the field of ge"
+    },
+    {
+      "id": "9-866",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) grow in size visually\nExplanation: The context says that as you go from farther away from"
+    },
+    {
+      "id": "7-208",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C."
+    },
+    {
+      "id": "9-771",
+      "pred": "Unknown",
+      "gold": "D",
+      "correct": false,
+      "response": "D\nExplanation: The context mentions that an example of biofuel could be leaves, and another example"
+    },
+    {
+      "id": "998",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  Explanation:  The question asks which animal is hiding from a predator. The context mentions"
+    },
+    {
+      "id": "433",
+      "pred": "D",
+      "gold": "B",
+      "correct": false,
+      "response": "D.  Explanation:  The baker stirring batter is an example of force causing an increase in speed"
+    },
+    {
+      "id": "9-508",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  (Context: the night sky shows very far away what clumps of flaming gas)"
+    },
+    {
+      "id": "7-561",
+      "pred": "Unknown",
+      "gold": "D",
+      "correct": false,
+      "response": "D\nExplanation: The context is about a beach ball bursting and what would most likely escape. The"
+    },
+    {
+      "id": "7-976",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B) are attracted to each other.  The context is about magnets. When two magnets are placed"
+    },
+    {
+      "id": "1635",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) people\nExplanation: In the context of pesticides and runoff, people are the ones who use"
+    },
+    {
+      "id": "7-875",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  (Note: This is a multiple choice question, so the answer is not just \""
+    },
+    {
+      "id": "7-1053",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) deserts get surplus sun\nExplanation: The contexts indicate that deserts are known for having"
+    },
+    {
+      "id": "9-957",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  The Gobi Desert is a sandy land and water is scarce there. Taking shorter hot"
+    },
+    {
+      "id": "1150",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C. (The paper clip is ferromagnetic, and is often made of cobalt.) Bookmark"
+    },
+    {
+      "id": "8-240",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "D\nExplanation: The context states that a living thing requires nutriment to grow. Nutr"
+    },
+    {
+      "id": "9-554",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  (The mother bear teaches the cubs to keep their distance from other bears, as"
+    },
+    {
+      "id": "9-135",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  Context: which of these would most likely cause a car to lose control? a highway"
+    },
+    {
+      "id": "7-1096",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B. The swallow is the only creature with offspring that is hatched. The other options are mammals"
+    },
+    {
+      "id": "841",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  Explanation:  The context mentions that a large component of Earth's makeup is ground material"
+    },
+    {
+      "id": "7-146",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) is removed. Context: If a forest that is home to animals is cut down then the"
+    },
+    {
+      "id": "1554",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. Contexts suggest that seeds are used to positively impact an ecosystem by feeding what grows from them"
+    },
+    {
+      "id": "9-731",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) Answer: A) consumption. The grizzly bear is demonstrating consumption, which is a way"
+    },
+    {
+      "id": "1780",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "A\nExplanation: The context mentions \"Spring may be sprung when our globe shifts\" and \"A"
+    },
+    {
+      "id": "7-1077",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (Note: The question is asking for an example of kinetic energy, which is motion"
+    },
+    {
+      "id": "8-494",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C. Context: Human astronauts have visited the closest celestial object to earth. The closest celestial object to"
+    },
+    {
+      "id": "936",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "D\nExplanation: The context mentions that if a forest that is home to animals is cut down then"
+    },
+    {
+      "id": "8-478",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) Kitchen foil.  The reflector is used to reflect sunbeams, which is most"
+    },
+    {
+      "id": "9-669",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) this is sure\nExplanation: The context states that the closest star to our planet delivers solar"
+    },
+    {
+      "id": "7-732",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A. (Note: This is a trick question. The answer is not actually related to the context"
+    },
+    {
+      "id": "7-658",
+      "pred": "C",
+      "gold": "D",
+      "correct": false,
+      "response": "C.  The scorpion is the only one of the four options that has a barb on"
+    },
+    {
+      "id": "1003",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "D\nExplanation: A renewable resource is one which is considered renewable and is also a resource. It"
+    },
+    {
+      "id": "8-62",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) would cease existing. The population of black bears would have to drop to zero before they would"
+    },
+    {
+      "id": "7-386",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) substance\nExplanation: The contexts suggest that acid can be used to make a new substance,"
+    },
+    {
+      "id": "257",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. (The question is actually asking for the opposite of what the context suggests, but the answer"
+    },
+    {
+      "id": "147",
+      "pred": "A",
+      "gold": "D",
+      "correct": false,
+      "response": "A) distance\nExplanation: Echolocation is a method of detecting objects by hearing the echoes of"
+    },
+    {
+      "id": "7-599",
+      "pred": "Unknown",
+      "gold": "D",
+      "correct": false,
+      "response": "D\nExplanation: \nThe question asks what material has already broken down. The context mentions that if"
+    },
+    {
+      "id": "8-92",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) A boiling hot mug of tea. The context says that heating liquids enhances the ability to break"
+    },
+    {
+      "id": "354",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C) crocodile\nExplanation: The context mentions that certain species of lizards give live birth,"
+    },
+    {
+      "id": "9-966",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  (The context says that a quartz crystal is a transparent hexagon.)  (The"
+    },
+    {
+      "id": "9-612",
+      "pred": "D",
+      "gold": "B",
+      "correct": false,
+      "response": "D) gas Context: cellular respiration is when energy is produced in a cell by consumption of oxygen"
+    },
+    {
+      "id": "9-548",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) negative\nExplanation: The context mentions that the inventor of pasteurization also worked on vaccinations"
+    },
+    {
+      "id": "9-429",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C) a cup of water\nExplanation: Adding a cup of water to a glass of water does"
+    },
+    {
+      "id": "7-95",
+      "pred": "B",
+      "gold": "C",
+      "correct": false,
+      "response": "B) air is warmer than water\nExplanation: On a cloudless day, the air is warmer"
+    },
+    {
+      "id": "1560",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  (Tearing an object changes that object's formation)  (Changing an object's"
+    },
+    {
+      "id": "9-461",
+      "pred": "D",
+      "gold": "C",
+      "correct": false,
+      "response": "D.  (The context mentions that blizzards can be dangerous to drive in because you may"
+    },
+    {
+      "id": "9-490",
+      "pred": "D",
+      "gold": "C",
+      "correct": false,
+      "response": "D. (DNA is a vehicle for passing language and dialect) is incorrect. The correct answer is"
+    },
+    {
+      "id": "9-301",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  I don't know the answer to this question.  I don't know the answer"
+    },
+    {
+      "id": "60",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) once.  The full moon is visible every four weeks, which is one month."
+    },
+    {
+      "id": "9-894",
+      "pred": "B",
+      "gold": "C",
+      "correct": false,
+      "response": "B) any object.  The contexts indicate that light can bounce off of any object, not just"
+    },
+    {
+      "id": "9-895",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) the season has been quite dry.  (Context: If a park becomes more and more"
+    },
+    {
+      "id": "9-281",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) the body of the pot is of high temperature. \n\nHere is another question. \nIf"
+    },
+    {
+      "id": "202",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  The octopus is a master of disguise and can change color to blend in with its"
+    },
+    {
+      "id": "1937",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) mechanical energy. The wedge is a simple machine that requires a person to adjust it to fit"
+    },
+    {
+      "id": "620",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) concrete configuration.  The solid phase has a fixed shape, so the answer is \"con"
+    },
+    {
+      "id": "8-142",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) travels to the seaside\nExplanation: The class is going to study the coral reef, which"
+    },
+    {
+      "id": "7-1138",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  Explanation:  The context says that if the temperature is 34 degrees Fahrenheit, sodium"
+    },
+    {
+      "id": "8-471",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) used soda can\nExplanation: The context mentions that cans can be taken to a scrap yard"
+    },
+    {
+      "id": "9-433",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) 12\nExplanation: The lunar face appears to change 52 times annually. This is"
+    },
+    {
+      "id": "1458",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) is turned off. Context: When you press on the brakes in a car, because of"
+    },
+    {
+      "id": "57",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B. \nExplanation: The context mentions that pulling your finger over a guitar string is an example of"
+    },
+    {
+      "id": "605",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  Context: An item placed on a balance will be measured. A balance can measure the"
+    },
+    {
+      "id": "9-889",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C) Mars\nExplanation: The context says that some humans live in what? homes, and a"
+    },
+    {
+      "id": "1890",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  (Correct answer)  A. reconfigure appearance to blend in.  (Explanation"
+    },
+    {
+      "id": "9-618",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "D\nExplanation: The question is asking what is required for a plant to enjoy the product of a"
+    },
+    {
+      "id": "9-523",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) humongous.  The word \"humongous\" is a synonym for \"en"
+    },
+    {
+      "id": "1126",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) when boiling eggs on a stove top. Contextually, boiling eggs on a stove top involves"
+    },
+    {
+      "id": "644",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) heat\nExplanation: The incandescent bulb's filament produces light and heat, which is"
+    },
+    {
+      "id": "8-365",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  Context: A student waiting for class to be over, in the last minute until the"
+    },
+    {
+      "id": "9-727",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  I don't know.  Camouflage is used by animals to avoid being a meal"
+    },
+    {
+      "id": "7-461",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  The context states that a person who is avoiding sugar will stop eating bread, which is"
+    },
+    {
+      "id": "9-1071",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) dry out clothes after coming in from the rain\nI don't know the answer to this"
+    },
+    {
+      "id": "1918",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  (Context: Polar bears are best suited for colder places, Polar bears grew thick fur"
+    },
+    {
+      "id": "1038",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  I don't know the answer to this question.  I know that a second is"
+    },
+    {
+      "id": "9-197",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  I don't know the answer to the question.  The answer is D."
+    },
+    {
+      "id": "1393",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B. Context 1 and 2 indicate that the first quarter phase of the moon occurs after a"
+    },
+    {
+      "id": "7-244",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A. (The ice cube will shrink as it melts.) (Context: Heating ice will leave a"
+    },
+    {
+      "id": "9-916",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) conserving. The person will have to start conserving his food, or in other words"
+    },
+    {
+      "id": "9-1046",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D.  The skeletal system protects the blood vessels.  The skeletal system is made up of calc"
+    },
+    {
+      "id": "167",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  The sun has the most gravity in our solar system. Earth has more gravity than the"
+    },
+    {
+      "id": "9-566",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  (The dam was put under much more stress after the huge rain storm)  ("
+    },
+    {
+      "id": "8-28",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  Explanation: The context states that if a plant is going to photosynthesize, it"
+    },
+    {
+      "id": "7-179",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) atomic 26\nExplanation: The context states that the material that makes up iron nails is"
+    },
+    {
+      "id": "389",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "B\nExplanation: The context says that tearing an object changes that object's formation. Therefore, when"
+    },
+    {
+      "id": "1528",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) dunes at the beach to be depleted\nExplanation: The context shows that wind can cause"
+    },
+    {
+      "id": "1457",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  Explanation: The context states that as a body of water's surface area increases, vapor"
+    },
+    {
+      "id": "1208",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  (The steak is removed from the freezer to defrost, so its temperature will increase"
+    },
+    {
+      "id": "1170",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) makes deep noises.  The sousaphone is a musical instrument that is a type of"
+    },
+    {
+      "id": "8-409",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) dead Context: A thing is on fire and afterwards it is seared. This context is"
+    },
+    {
+      "id": "8-307",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) on a sunny day.  The context says that when it is hot out, animals that"
+    },
+    {
+      "id": "1948",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  (Context: Which is a carnivore? a shark)  (Context: Carn"
+    },
+    {
+      "id": "661",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C. The light that appears dimmest is a star outside the window. This is because a"
+    },
+    {
+      "id": "7-435",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) earth Context: If a thing is going to be able to expand, it will require nut"
+    },
+    {
+      "id": "8-332",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) a worm burrowing through the earth.  The context of boring loosens soil, and"
+    },
+    {
+      "id": "948",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) frogs returning to the ponds were they hatched to lay eggs.  The instinctual behavior"
+    },
+    {
+      "id": "381",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C) flowers Context: Pollination is required for what reproduction? flora. Pollination is required for"
+    },
+    {
+      "id": "9-759",
+      "pred": "C",
+      "gold": "B",
+      "correct": false,
+      "response": "C) Answer: C) Answer: C) Answer: C) Answer: C) Answer:"
+    },
+    {
+      "id": "8-350",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) soil with worms burrowing around.  The worms help loosen the soil which is ideal for"
+    },
+    {
+      "id": "7-727",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) I am an Ant. Explanation: The context mentions that an example of feeling could be clothes"
+    },
+    {
+      "id": "850",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  Explanation: Live birth is exemplified in a calf emerging from a mother giraffe."
+    },
+    {
+      "id": "970",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D.  (Cooking food requires higher temps to be applied, and a household appliance prepares food"
+    },
+    {
+      "id": "7-381",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. Contexts suggest that the Earth revolves around a heat source, which is the Sun. So"
+    },
+    {
+      "id": "9-436",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  Context: A satellite may make a revolution when it travels around a thing.  This"
+    },
+    {
+      "id": "9-411",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) they will shrink.  Context: If more pollution is released into the air, what happens"
+    },
+    {
+      "id": "9-692",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) The Andes. The Andes is a mountain range, which is a slope. Lands"
+    },
+    {
+      "id": "1334",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D) grabbing a fence and being shocked.  Explanation:  Water is a good conductor of electricity"
+    },
+    {
+      "id": "9-1160",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. The solar year is 365.25 days, so it occurs once every 365."
+    },
+    {
+      "id": "9-89",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) impair its well being in some way. (Note: This answer is based on the assumption"
+    },
+    {
+      "id": "9-1034",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D. Contexts suggest that chipmunks are not likely to take the acorns, and that"
+    },
+    {
+      "id": "8-293",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) water vapor.  The steam is water vapor.  The steam is a gas, and"
+    },
+    {
+      "id": "9-652",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) placed in good soil Context: Plant growth may be positively affected by extra rainfall. A specific"
+    },
+    {
+      "id": "1391",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "D\nExplanation: A picture book is a tall object that contains a lot of pages, which are"
+    },
+    {
+      "id": "9-948",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) from a live plant.  The student would have to get the orange from a live plant"
+    },
+    {
+      "id": "8-213",
+      "pred": "Unknown",
+      "gold": "D",
+      "correct": false,
+      "response": "D\nExplanation: The context is about a sedimentary rock likely holding a trilobite."
+    },
+    {
+      "id": "162",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B) 5 am\nExplanation: The dog is more likely to shiver at 5 am"
+    },
+    {
+      "id": "1359",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "B\nExplanation: The query asks what photosynthesis does by converting carbon dioxide, water, and sunlight"
+    },
+    {
+      "id": "9-743",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  The contexts suggest that a bunny would live in a thicket, as a thicket"
+    },
+    {
+      "id": "9-645",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D. (It is a producer.)  (Note: This is a trick question. The answer"
+    },
+    {
+      "id": "8-250",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) bugs\nExplanation: The meadow vole is a consumer, and it needs to feed itself"
+    },
+    {
+      "id": "283",
+      "pred": "B",
+      "gold": "C",
+      "correct": false,
+      "response": "B. (Note: The 20th state to join the union is actually Minnesota, but the"
+    },
+    {
+      "id": "8-183",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A) UV rays are harmful. Context: The woman is going to the beach and plans on spending"
+    },
+    {
+      "id": "9-284",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A.  Context: A hot liquid would be pasta water bubbling on the stove.  In"
+    },
+    {
+      "id": "7-1186",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C.  I don't know.  C.  C.  C.  C."
+    },
+    {
+      "id": "926",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) leads to less sick people\nExplanation: The contexts allude to the prevention of diseases through"
+    },
+    {
+      "id": "7-519",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B.  (Note: This is a multiple choice question. The answer is based on the context"
+    },
+    {
+      "id": "7-7",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C) heat.  I don't know what the other options are.  The context only talks"
+    }
+  ]
+}

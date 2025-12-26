@@ -1,0 +1,3514 @@
+{
+  "accuracy": 0.778,
+  "config": {
+    "defense_mode": "none",
+    "top_k": 3,
+    "out_dir": "results/utility_test_12_24",
+    "model_path": "",
+    "use_api": true,
+    "api_model_name": "",
+    "max_tokens": 20
+  },
+  "details": [
+    {
+      "id": "8-343",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1129",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "880",
+      "pred": "D",
+      "gold": "C",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "7-999",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "8-464",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-794",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-1163",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-322",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-1140",
+      "pred": "A",
+      "gold": "D",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "7-903",
+      "pred": "A",
+      "gold": "B",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "7-511",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-937",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "8-201",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1618",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "758",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-414",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-675",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-163",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1032",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "889",
+      "pred": "C",
+      "gold": "B",
+      "correct": false,
+      "response": "C"
+    },
+    {
+      "id": "1160",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "D\n\nThe context suggests that the amount of water vapor in the air is related to the distance from"
+    },
+    {
+      "id": "9-298",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "1189",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "8-395",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-238",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-372",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "A\n\nExplanation: \nIn the context of the shark attacking and pulling in air from its surroundings,"
+    },
+    {
+      "id": "8-35",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-271",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-409",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "530",
+      "pred": "C",
+      "gold": "B",
+      "correct": false,
+      "response": "C"
+    },
+    {
+      "id": "1426",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "8-466",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1577",
+      "pred": "D",
+      "gold": "B",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "8-257",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "378",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "8-41",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-540",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "266",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1309",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "7-1197",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-891",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1180",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1204",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-52",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1759",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-655",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "132",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "8-79",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "A\n\nExplanation: The balloons are filled with helium, which is a gas that expands when heated."
+    },
+    {
+      "id": "1835",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-149",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "695",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "A\n\nThe context mentions a sparrow eating berries, which suggests that the question is about animals eating"
+    },
+    {
+      "id": "8-179",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "7-50",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "508",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1674",
+      "pred": "D",
+      "gold": "C",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "163",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-49",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "8-393",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "788",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-29",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-368",
+      "pred": "B",
+      "gold": "C",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "7-671",
+      "pred": "B",
+      "gold": "C",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "1272",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "648",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-1180",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-227",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1582",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "8-125",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "A\n\nExplanation: The prisoner knows that he needs vitamin D to survive, and since he's allergic"
+    },
+    {
+      "id": "1923",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-229",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1702",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "8-260",
+      "pred": "B",
+      "gold": "C",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "9-491",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "75",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "1215",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "8-93",
+      "pred": "A",
+      "gold": "C",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "7-988",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-1139",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1545",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-664",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "8-53",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-1044",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-1122",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "9-79",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "B\n\nThe context mentions stained glass windows and the benefit of thick feathers being free of bacteria. It"
+    },
+    {
+      "id": "7-157",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-1164",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "8-63",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "8-308",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "326",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1184",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "359",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "D\n\nIn a hot desert environment, a lighter-colored automobile upholstery would be more comfortable due to its"
+    },
+    {
+      "id": "9-350",
+      "pred": "Unknown",
+      "gold": "D",
+      "correct": false,
+      "response": "D\n\nThe context states that a salamander is cold-blooded, which implies it is an"
+    },
+    {
+      "id": "7-140",
+      "pred": "A",
+      "gold": "C",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "591",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-391",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1672",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-464",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-983",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-179",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-942",
+      "pred": "D",
+      "gold": "C",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "7-100",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-30",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1709",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "8-491",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "44",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1023",
+      "pred": "C",
+      "gold": "D",
+      "correct": false,
+      "response": "C"
+    },
+    {
+      "id": "1911",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "429",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "8-49",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "520",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C)"
+    },
+    {
+      "id": "7-1128",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-394",
+      "pred": "C",
+      "gold": "B",
+      "correct": false,
+      "response": "C"
+    },
+    {
+      "id": "9-1166",
+      "pred": "A",
+      "gold": "B",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "7-884",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-501",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-757",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-725",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1300",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-230",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-988",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-393",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-823",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-24",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "570",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-124",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-199",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "A\n\nThe reasoning is that denser liquids have a higher mass per unit volume, causing them to"
+    },
+    {
+      "id": "767",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "A\n\nExplanation: Based on the context provided, photosynthesis is associated with flora (plants and other"
+    },
+    {
+      "id": "28",
+      "pred": "B",
+      "gold": "D",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "9-1134",
+      "pred": "D",
+      "gold": "B",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "9-1030",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-18",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "8-378",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "7-677",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-786",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-463",
+      "pred": "Unknown",
+      "gold": "D",
+      "correct": false,
+      "response": "A\n\nThe context suggests that the question is about electricity flow, and the options are being evaluated based"
+    },
+    {
+      "id": "7-71",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "9-1053",
+      "pred": "C",
+      "gold": "D",
+      "correct": false,
+      "response": "C"
+    },
+    {
+      "id": "9-437",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1787",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-107",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "A\n\nExplanation: \nIn the Southern Hemisphere, the last month of the year (December) is"
+    },
+    {
+      "id": "769",
+      "pred": "B",
+      "gold": "C",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "9-73",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "9-1194",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-416",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "470",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "1297",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "8-346",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-807",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "8-463",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-110",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "1611",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-942",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-1102",
+      "pred": "D",
+      "gold": "B",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "9-774",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "8-333",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "9-573",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1955",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "8-45",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-674",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "898",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-1159",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "568",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-877",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "406",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-1132",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-479",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "609",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "1568",
+      "pred": "A",
+      "gold": "C",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "9-418",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "A\n\nExplanation: Glucose is a type of sugar that plants produce during photosynthesis. It is"
+    },
+    {
+      "id": "7-1050",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-510",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-519",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "A\n\nExplanation: The context suggests that a source of heat can be created using electricity, as seen"
+    },
+    {
+      "id": "9-637",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "473",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "A\n\nThe context suggests that tuna eat sardines, and among the options, Atlantic menh"
+    },
+    {
+      "id": "8-445",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-575",
+      "pred": "C",
+      "gold": "B",
+      "correct": false,
+      "response": "C"
+    },
+    {
+      "id": "7-284",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "8-135",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "397",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-32",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "48",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "8-69",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-159",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-317",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "423",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "8-304",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "785",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-1087",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "485",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-908",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1231",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "810",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "158",
+      "pred": "A",
+      "gold": "D",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "7-445",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "1502",
+      "pred": "A",
+      "gold": "C",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "1200",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "437",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "8-205",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-270",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "8-130",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "229",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-390",
+      "pred": "A",
+      "gold": "D",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "8-107",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-527",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "7-333",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-44",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-160",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1942",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-597",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-35",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "A\n\nThe context mentions that some minerals originated from a material that was far away, and slate probably"
+    },
+    {
+      "id": "1161",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-171",
+      "pred": "A",
+      "gold": "B",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "1139",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1924",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-440",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-528",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "170",
+      "pred": "D",
+      "gold": "C",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "395",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-633",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-504",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "8-192",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-1108",
+      "pred": "B",
+      "gold": "D",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "7-852",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "761",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "8-318",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "636",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-444",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "8-57",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-187",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "A\n\nThe context mentions that eagles eat small burrowing mammals, which suggests that eagles primarily"
+    },
+    {
+      "id": "1345",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "8-59",
+      "pred": "Unknown",
+      "gold": "D",
+      "correct": false,
+      "response": "A\n\nThe context is about heat, light, and sound, and the question is about sound."
+    },
+    {
+      "id": "178",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-1186",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "82",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "8-165",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "404",
+      "pred": "A",
+      "gold": "B",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "279",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-532",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "268",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-1018",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1756",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "1137",
+      "pred": "A",
+      "gold": "D",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "7-203",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "745",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-902",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "1095",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-163",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-858",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1530",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-993",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "8-340",
+      "pred": "B",
+      "gold": "D",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "3",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1074",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-431",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-638",
+      "pred": "A",
+      "gold": "B",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "9-352",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "226",
+      "pred": "A",
+      "gold": "D",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "9-132",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-222",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-105",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "7-459",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-881",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "280",
+      "pred": "D",
+      "gold": "B",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "187",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "8-253",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-482",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "496",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "630",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-16",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "7-986",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "7-787",
+      "pred": "D",
+      "gold": "C",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "9-181",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "1240",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "474",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1274",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1531",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "8-321",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1321",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-51",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "7-685",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-59",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C"
+    },
+    {
+      "id": "7-270",
+      "pred": "B",
+      "gold": "D",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "7-736",
+      "pred": "A",
+      "gold": "C",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "8-186",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "224",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "8-206",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "8-190",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-334",
+      "pred": "C",
+      "gold": "B",
+      "correct": false,
+      "response": "C"
+    },
+    {
+      "id": "9-853",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "8-367",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "1047",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "A\n\nThe context provided explains that evaporation is caused by hot energy and is an example of a"
+    },
+    {
+      "id": "9-454",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1572",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "8-373",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-772",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C"
+    },
+    {
+      "id": "1852",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-1090",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "7-769",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-478",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "448",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-417",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-108",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1506",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1712",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "A\n\nThe context is about special tissues in plants that transport minerals throughout the plant. A wick"
+    },
+    {
+      "id": "8-312",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-776",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "A\n\nThe context provided shows that investing in a more expensive, high-quality item (in this case"
+    },
+    {
+      "id": "8-279",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-621",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1823",
+      "pred": "D",
+      "gold": "C",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "9-735",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-1170",
+      "pred": "D",
+      "gold": "B",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "1500",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "342",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "B\n\nThe context mentions that eating food that contains pesticides can have a negative impact on humans. Con"
+    },
+    {
+      "id": "7-356",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "78",
+      "pred": "A",
+      "gold": "B",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "9-520",
+      "pred": "A",
+      "gold": "C",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "7-653",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1112",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "A\n\nThe context mentions baby bats starting to do something after at least a month after birth, which"
+    },
+    {
+      "id": "9-152",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-552",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-262",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-683",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "276",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-855",
+      "pred": "D",
+      "gold": "C",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "664",
+      "pred": "Unknown",
+      "gold": "D",
+      "correct": false,
+      "response": "A\n\nThe context suggests that the population of an animal species (hummingbirds) is decreasing due"
+    },
+    {
+      "id": "9-883",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-550",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "8-493",
+      "pred": "C",
+      "gold": "D",
+      "correct": false,
+      "response": "C"
+    },
+    {
+      "id": "9-257",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1239",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "869",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-1105",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "597",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "385",
+      "pred": "B",
+      "gold": "D",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "1301",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-893",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-369",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-1026",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-424",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-259",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-783",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1088",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1387",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-1062",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "676",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1998",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1698",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "490",
+      "pred": "Unknown",
+      "gold": "A",
+      "correct": false,
+      "response": "A\n\nThe context provided explains that a white color often scatters photons without absorbing them, which is"
+    },
+    {
+      "id": "844",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "1795",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1508",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-289",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-668",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-364",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "1271",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-1117",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "35",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "1660",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "A\n\nThe context is about pushing an object, which requires exerted effort. The harder a child"
+    },
+    {
+      "id": "7-710",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "8-52",
+      "pred": "A",
+      "gold": "B",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "9-1167",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "8-43",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-57",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1411",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-206",
+      "pred": "A",
+      "gold": "C",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "7-740",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1774",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-93",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "A\n\nThe context is about the negative impact on organism health, which is related to falling ill and"
+    },
+    {
+      "id": "8-97",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-813",
+      "pred": "A",
+      "gold": "B",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "9-686",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-799",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1179",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1954",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "8-403",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-576",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-866",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-208",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-771",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "998",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "433",
+      "pred": "D",
+      "gold": "B",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "9-508",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-561",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "7-976",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "1635",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-875",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-1053",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-957",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1150",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "8-240",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-554",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-135",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-1096",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "841",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-146",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "1554",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-731",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "1780",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C"
+    },
+    {
+      "id": "7-1077",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "8-494",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "936",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "8-478",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-669",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-732",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-658",
+      "pred": "C",
+      "gold": "D",
+      "correct": false,
+      "response": "C"
+    },
+    {
+      "id": "1003",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "8-62",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-386",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "257",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "147",
+      "pred": "A",
+      "gold": "D",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "7-599",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "8-92",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "A\n\nThe context states that when you heat liquids, it enhances its ability to break down solids."
+    },
+    {
+      "id": "354",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C"
+    },
+    {
+      "id": "9-966",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-612",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-548",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-429",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-95",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "A\n\nExplanation: \nThe context suggests that the question is related to evaporation and the factors that"
+    },
+    {
+      "id": "1560",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-461",
+      "pred": "D",
+      "gold": "C",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "9-490",
+      "pred": "D",
+      "gold": "C",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "9-301",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "60",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-894",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-895",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-281",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "202",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1937",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "620",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "8-142",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-1138",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "8-471",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-433",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1458",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "57",
+      "pred": "A",
+      "gold": "B",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "605",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-889",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C"
+    },
+    {
+      "id": "1890",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-618",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-523",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "1126",
+      "pred": "Unknown",
+      "gold": "C",
+      "correct": false,
+      "response": "A\n\nThis is because the context mentions that heat causes water to turn to vapor in a process called"
+    },
+    {
+      "id": "644",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "8-365",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-727",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "7-461",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-1071",
+      "pred": "D",
+      "gold": "B",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "1918",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1038",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-197",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1393",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-244",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-916",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-1046",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "167",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-566",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "8-28",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D)"
+    },
+    {
+      "id": "7-179",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "389",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1528",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1457",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "1208",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1170",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "8-409",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "8-307",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "1948",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "661",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-435",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "8-332",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "948",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "381",
+      "pred": "C",
+      "gold": "A",
+      "correct": false,
+      "response": "C"
+    },
+    {
+      "id": "9-759",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "8-350",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "B\n\nThe context suggests that the plant's roots are breaking down rocks, which implies that the roots"
+    },
+    {
+      "id": "7-727",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "850",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "970",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "7-381",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-436",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-411",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "9-692",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "1334",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-1160",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "9-89",
+      "pred": "B",
+      "gold": "A",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "9-1034",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "8-293",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "9-652",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "1391",
+      "pred": "A",
+      "gold": "C",
+      "correct": false,
+      "response": "A"
+    },
+    {
+      "id": "9-948",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "8-213",
+      "pred": "D",
+      "gold": "D",
+      "correct": true,
+      "response": "D"
+    },
+    {
+      "id": "162",
+      "pred": "Unknown",
+      "gold": "B",
+      "correct": false,
+      "response": "B\n\nThe context suggests that the time of day is related to the likelihood of an animal shivering"
+    },
+    {
+      "id": "1359",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B)"
+    },
+    {
+      "id": "9-743",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-645",
+      "pred": "D",
+      "gold": "A",
+      "correct": false,
+      "response": "D"
+    },
+    {
+      "id": "8-250",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "283",
+      "pred": "B",
+      "gold": "C",
+      "correct": false,
+      "response": "B"
+    },
+    {
+      "id": "8-183",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "9-284",
+      "pred": "A",
+      "gold": "A",
+      "correct": true,
+      "response": "A"
+    },
+    {
+      "id": "7-1186",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "926",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    },
+    {
+      "id": "7-519",
+      "pred": "B",
+      "gold": "B",
+      "correct": true,
+      "response": "B"
+    },
+    {
+      "id": "7-7",
+      "pred": "C",
+      "gold": "C",
+      "correct": true,
+      "response": "C"
+    }
+  ]
+}

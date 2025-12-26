@@ -1,0 +1,31 @@
+{
+  "acc": 0.5,
+  "adj_acc": 0.0,
+  "roc_auc": 0.52,
+  "best_threshold": 0.35,
+  "params": {
+    "splits_path": "configs/s2mia_splits.json",
+    "index_dir_member": "index_member",
+    "cache_path": "cache/mba_tfidf_m15_quick_12_15.json",
+    "out_dir": "results/mba_tfidf_m15_quick_12_15",
+    "n_ref_m": 3,
+    "n_ref_n": 3,
+    "n_eval_m": 5,
+    "n_eval_n": 5,
+    "num_masks": 15,
+    "top_k": 3,
+    "per_ctx_clip": 600,
+    "max_tokens": 256,
+    "rho": 0.005,
+    "margin": 0.02,
+    "gap_min": 0.03,
+    "defense": false,
+    "defense_mode": "mirabel",
+    "save_every": 20
+  },
+  "recall_stats": {
+    "recall@1": 0.8,
+    "recall@2": 1.0,
+    "recall@3": 1.0
+  }
+}

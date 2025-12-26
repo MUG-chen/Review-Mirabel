@@ -1,0 +1,48 @@
+{
+  "attack": "IA",
+  "defense": true,
+  "defense_mode": "rewrite",
+  "use_cross_encoder": true,
+  "num_questions_generate": 50,
+  "num_questions_select": 30,
+  "lambda_penalty": 3.0,
+  "best_threshold": -1.784,
+  "reference": {
+    "acc": 0.775,
+    "adj_acc": 0.2749999999999999,
+    "roc_auc": 0.8025,
+    "member_acc": 0.6,
+    "non_member_acc": 0.95
+  },
+  "evaluation": {
+    "acc": 0.725,
+    "adj_acc": 0.2250000000000001,
+    "roc_auc": 0.8684375,
+    "member_acc": 0.525,
+    "non_member_acc": 0.925
+  },
+  "params": {
+    "splits_path": "configs/s2mia_splits.json",
+    "index_dir_member": "index_member",
+    "n_ref_m": 20,
+    "n_ref_n": 20,
+    "n_eval_m": 40,
+    "n_eval_n": 40,
+    "num_questions_generate": 50,
+    "num_questions_select": 30,
+    "use_cross_encoder": true,
+    "lambda_penalty": 3.0,
+    "top_k": 3,
+    "per_ctx_clip": 600,
+    "max_tokens": 256,
+    "defense": true,
+    "defense_mode": "rewrite",
+    "rho": 0.005,
+    "margin": 0.02,
+    "gap_min": 0.03,
+    "use_gap": false,
+    "cache_path": "cache/ia_with_defense_rewrite.json",
+    "out_dir": "results/ia_with_defense_rewrite",
+    "save_every": 20
+  }
+}

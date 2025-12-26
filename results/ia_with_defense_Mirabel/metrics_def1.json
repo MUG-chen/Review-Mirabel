@@ -1,0 +1,28 @@
+{
+  "acc": 0.54,
+  "adj_acc": 0.040000000000000036,
+  "roc_auc": 0.5424,
+  "best_threshold": -0.85,
+  "params": {
+    "num_questions_generate": 30,
+    "num_questions_select": 15,
+    "lambda_penalty": 1.0,
+    "splits_path": "configs/s2mia_splits.json",
+    "index_dir_member": "index_member",
+    "cache_path": "cache/ia_medium_with_defense.json",
+    "out_dir": "results/ia_medium_with_defense",
+    "n_ref_m": 30,
+    "n_ref_n": 30,
+    "n_eval_m": 50,
+    "n_eval_n": 50,
+    "top_k": 3,
+    "per_ctx_clip": 600,
+    "max_tokens": 32,
+    "defense": true,
+    "oracle_retrieval": false,
+    "rho": 0.005,
+    "margin": 0.02,
+    "gap_min": 0.03,
+    "save_every": 1
+  }
+}

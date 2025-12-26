@@ -1,0 +1,53 @@
+{
+  "attack": "IA",
+  "defense": false,
+  "defense_mode": "none",
+  "use_cross_encoder": true,
+  "num_questions_generate": 50,
+  "num_questions_select": 30,
+  "lambda_penalty": 3.0,
+  "best_threshold": -2.06,
+  "reference": {
+    "acc": 0.9,
+    "adj_acc": 0.4,
+    "roc_auc": 0.9800000000000001,
+    "member_acc": 1.0,
+    "non_member_acc": 0.8
+  },
+  "evaluation": {
+    "acc": 0.85,
+    "adj_acc": 0.35,
+    "roc_auc": 0.885,
+    "member_acc": 0.7,
+    "non_member_acc": 1.0
+  },
+  "params": {
+    "splits_path": "configs/s2mia_splits.json",
+    "index_dir_member": "index_member",
+    "n_ref_m": 5,
+    "n_ref_n": 5,
+    "n_eval_m": 10,
+    "n_eval_n": 10,
+    "num_questions_generate": 50,
+    "num_questions_select": 30,
+    "use_cross_encoder": true,
+    "lambda_penalty": 3.0,
+    "top_k": 3,
+    "per_ctx_clip": 600,
+    "max_tokens": 256,
+    "defense": false,
+    "defense_mode": "mirabel",
+    "rho": 0.005,
+    "margin": 0.02,
+    "gap_min": 0.03,
+    "use_gap": false,
+    "cache_path": "cache/ia_no_defense_recall_rate.json",
+    "out_dir": "results/ia_no_defense_recall_rate",
+    "save_every": 20
+  },
+  "recall_stats": {
+    "recall@1": 0.9,
+    "recall@2": 1.0,
+    "recall@3": 1.0
+  }
+}

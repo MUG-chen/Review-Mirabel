@@ -1,0 +1,6 @@
+{
+  "s2mia_t_features": "(BERTScore, PPL)",
+  "theta_bertscore": 0.1,
+  "theta_ppl": 80.0,
+  "ref_acc_t": 0.675
+}

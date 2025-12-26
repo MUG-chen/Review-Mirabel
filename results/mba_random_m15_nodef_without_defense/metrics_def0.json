@@ -1,0 +1,25 @@
+{
+  "acc": 0.68,
+  "adj_acc": 0.18000000000000005,
+  "roc_auc": 0.7571999999999999,
+  "best_threshold": 0.44999999999999996,
+  "params": {
+    "splits_path": "configs/s2mia_splits.json",
+    "index_dir_member": "index_member",
+    "cache_path": "cache/mba_random_m15.json",
+    "out_dir": "results/mba_random_m15_nodef",
+    "n_ref_m": 60,
+    "n_ref_n": 60,
+    "n_eval_m": 100,
+    "n_eval_n": 100,
+    "num_masks": 15,
+    "top_k": 3,
+    "per_ctx_clip": 600,
+    "max_tokens": 256,
+    "rho": 0.005,
+    "margin": 0.02,
+    "gap_min": 0.03,
+    "defense": false,
+    "save_every": 20
+  }
+}

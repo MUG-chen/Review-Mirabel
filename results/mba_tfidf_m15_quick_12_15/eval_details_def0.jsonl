@@ -1,0 +1,10 @@
+{"row_id": 1604, "label": 1, "pred_acc": 0.3333333333333333, "recall@1": 1, "recall@2": 1, "recall@3": 1, "pred": 0}
+{"row_id": 3118, "label": 1, "pred_acc": 0.4666666666666667, "recall@1": 1, "recall@2": 1, "recall@3": 1, "pred": 1}
+{"row_id": 2853, "label": 0, "pred_acc": 0.5333333333333333, "recall@1": 0, "recall@2": 0, "recall@3": 0, "pred": 1}
+{"row_id": 3208, "label": 0, "pred_acc": 0.2, "recall@1": 0, "recall@2": 0, "recall@3": 0, "pred": 0}
+{"row_id": 53, "label": 1, "pred_acc": 0.3333333333333333, "recall@1": 1, "recall@2": 1, "recall@3": 1, "pred": 0}
+{"row_id": 1732, "label": 0, "pred_acc": 0.26666666666666666, "recall@1": 0, "recall@2": 0, "recall@3": 0, "pred": 0}
+{"row_id": 1060, "label": 1, "pred_acc": 0.4666666666666667, "recall@1": 1, "recall@2": 1, "recall@3": 1, "pred": 1}
+{"row_id": 1168, "label": 0, "pred_acc": 0.6666666666666666, "recall@1": 0, "recall@2": 0, "recall@3": 0, "pred": 1}
+{"row_id": 2992, "label": 0, "pred_acc": 0.0, "recall@1": 0, "recall@2": 0, "recall@3": 0, "pred": 0}
+{"row_id": 2623, "label": 1, "pred_acc": 0.13333333333333333, "recall@1": 0, "recall@2": 1, "recall@3": 1, "pred": 0}

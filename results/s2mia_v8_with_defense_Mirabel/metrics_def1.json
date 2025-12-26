@@ -1,0 +1,34 @@
+{
+  "defense": true,
+  "s2mia_t": {
+    "acc": 0.49833333333333335,
+    "adj_acc": 0.0016666666666667052,
+    "ks_bertscore": 0.07333333333333333
+  },
+  "s2mia_m": {
+    "features": "(PPL, BERTScore)",
+    "acc": 0.4866666666666667,
+    "adj_acc": 0.013333333333333308,
+    "roc_auc": 0.48736111111111113
+  },
+  "params": {
+    "splits_path": "configs/s2mia_splits.json",
+    "index_dir_member": "index_member",
+    "cache_path": "cache/s2mia_v8_with_defense.json",
+    "out_dir": "results/s2mia_v8_with_defense",
+    "n_ref_m": 200,
+    "n_ref_n": 200,
+    "n_eval_m": 300,
+    "n_eval_n": 300,
+    "per_ctx_clip": 300,
+    "max_tokens": 96,
+    "cont_words": 120,
+    "rho": 0.005,
+    "margin": 0.02,
+    "gap_min": 0.03,
+    "use_gap": true,
+    "defense": true,
+    "save_every": 50,
+    "query_strategy": "title_and_snippet"
+  }
+}
