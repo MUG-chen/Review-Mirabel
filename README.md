@@ -52,6 +52,10 @@ RAG-MIA-Evaluation/
     │   ├── quick_eval_nfcorpus.py # 评估脚本
     │   └── threshold.py        # 数学工具：计算 Mirabel 的统计学阈值 (Gaussian/Gumbel 近似)
     │
+    │
+    ├── eval/                  # === 评测脚本 ===
+    │   └── eval_utility_openbookqa.py   # 效用性测试 
+    │
     ├── rag/                    # === RAG 基础组件 ===
     │   ├── build_index_nfcorpus.py # 构建 FAISS 索引
     │   ├── download_nfcorpus.py    # 下载数据集
@@ -74,7 +78,7 @@ RAG-MIA-Evaluation/
 
 ```py
 # === 通用 LLM API 设置 (用于 RAG 回答生成) ===
-LLM_API_BASE=http://localhost:8000/v1  # 例如 vLLM 或 OpenAI 地址
+LLM_API_BASE=  # 例如 vLLM 或 OpenAI 地址
 LLM_API_KEY=sk-xxxxxx                  # API Key
 LLM_MODEL_ID=meta-llama/Meta-Llama-3.1-8B-Instruct
 # === 攻击特定模型设置 (可选) ===
