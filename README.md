@@ -155,11 +155,26 @@ PAD_MODEL_ID=/path/to/local/model      # PAD 防御: 本地加载的模型路径
 
 #### 3.4.3 S2MIA
 
+S2MIA 支持两种运行模式，取决于是否拥有目标模型的本地权限：
+
+**纯 API 模式 (Black-box)**
+
+命令：不加 --force_load_model，且不开启 PAD 防御。
+行为：仅调用 API 生成文本，速度快。
+指标：无法计算困惑度，结果中 MIA_PPL 为 -1，主要依赖 BLEU/ROUGE 进行攻击判定。
+
+**本地/白盒模式 (White-box / Grey-box)**
+
+命令：添加 --force_load_model 参数。
+行为：加载本地 Llama-3 模型和 Tokenizer。
+指标：计算精确的 MIA_PPL (Perplexity) 和 Min_K% Prob，攻击效果通常优于纯 API 模式。这也是测试无防御状态下 Baseline 的推荐设置。
+
 | 参数名 | 默认值 | 说明 |
 | :--- | :--- | :--- |
 | `--cont_words` | `120` | 要求模型续写的词数。 |
 | `--query_strategy` | `title_and_snippet` | 查询构造策略: `title_only`, `half_text`, `title_and_snippet`。 |
 | `--shadow_train_size` | `400` | 训练影子分类器的数据量。 |
+| **`--force_load_model`** | `False` | **[关键参数]** 强制加载本地模型（白盒模式）。<br>开启后将加载 `s2mia_utils.py` 中定义的本地 Llama 模型计算 **PPL (Perplexity)**。<br>若不开启，默认使用 API 模式，`MIA_PPL` 指标将返回 -1。 |
 
 ### 3.5 输出路径与缓存参数
 
